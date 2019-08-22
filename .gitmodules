@@ -1,0 +1,3 @@
+[submodule "keytokey"]
+	path = keytokey
+	url = git@github.com:TyberiusPrime/keytokey

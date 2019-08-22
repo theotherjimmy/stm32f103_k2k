@@ -25,7 +25,7 @@ git = "https://github.com/servo/smallbitvec"
 version = "2.4.0"
 
 [dependencies.keytokey]
-path = "../keytokey"
+path = "keytokey"
 
 [dependencies.stm32f1]
 version = "0.7.0"
